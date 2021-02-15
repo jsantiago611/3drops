@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/FireFox Style hero (2).png
+    image: images/Elements for Personal Insurance Web Co (11).png
     image_alt: Hero section placeholder image
     media_position: top
     media_width: fifty
