@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/Elements for Personal Insurance Web Co (18).png
+    image: images/scene-1.png
     content: >
       # We'll run your website.
 
