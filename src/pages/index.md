@@ -23,6 +23,7 @@ sections:
       editing with zero learning curve.
     title: You run your agency.
     background_image: images/Elements for Personal Insurance Web Co (17).png
+    background_image_size: contain
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
