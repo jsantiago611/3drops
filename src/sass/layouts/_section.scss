@@ -47,9 +47,10 @@
 .hero__copy {
 	&:not(:first-child) {
         margin-top: 1.11111em;
+    
+    }
     letter-spacing: -.3rem;
     line-height:3rem;
-	}
 }
 
 .hero__actions {
