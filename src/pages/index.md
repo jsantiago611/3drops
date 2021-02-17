@@ -20,6 +20,17 @@ sections:
     padding_bottom: large
     background_color: none
     image: images/Elements for Personal Insurance Web Co (10).png
+    content: >+
+      # You run your agency.
+
+
+      # We'll do your website.
+
+
+      Get a professional website at a price you can afford, and powerful web
+      editing with zero learning curve.
+
+
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
