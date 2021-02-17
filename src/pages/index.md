@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Optional hero section subtitle
     actions:
       - label: Try Free
         url: /pricing
