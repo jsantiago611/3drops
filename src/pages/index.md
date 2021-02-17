@@ -11,7 +11,7 @@ sections:
     media_position: right
     media_width: sixty
     align: left
-    padding_top: large
+    padding_top: small
     padding_bottom: large
     background_color: primary
     image: images/scene-1.png
