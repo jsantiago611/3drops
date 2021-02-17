@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     title: Conversion-driven sites for Insurance Agencies.
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
