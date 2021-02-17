@@ -24,6 +24,7 @@ sections:
     title: You run your agency.
     background_image: images/scene-0.png
     background_image_size: cover
+    background_image_position: center top
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
