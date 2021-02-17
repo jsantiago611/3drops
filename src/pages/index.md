@@ -24,7 +24,7 @@ sections:
     title: You run your agency.
     background_image: images/Elements for Personal Insurance Web Co (20).png
     background_image_size: cover
-    background_image_position: left bottom
+    background_image_position: right top
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
