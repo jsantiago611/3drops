@@ -16,7 +16,7 @@ sections:
     background_color: secondary
     image: images/Elements for Personal Insurance Web Co (10).png
     content: >
-      # We'll do your website.
+      # We'll run your website.
 
 
       Get a professional website at a price you can afford, and powerful web
