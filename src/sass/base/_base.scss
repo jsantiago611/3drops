@@ -40,6 +40,13 @@ html {
    font-style: italic;
 }
 
+  @font-face {
+   font-family: 'FinItalic';
+   src: url('../fonts/financier-display-test-regular-italic.woff') format('woff');
+   font-weight: 400;
+   font-style: italic;
+}
+
 body {
 	background-color: $color-body-bg;
 	color: $color-body-text;
