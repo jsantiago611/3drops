@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Try Free
+      - label: Choose Your Design
         url: /pricing
         style: primary
         has_icon: true
