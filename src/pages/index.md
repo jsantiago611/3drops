@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Conversion-driven sites for Insurance Agencies.
+    title: You run your agency.
     subtitle: Optional hero section subtitle
     actions:
       - label: Try Free
