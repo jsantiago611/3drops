@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: You run your agency.
+    title: You run your agency. We'll do your website.
     subtitle: Optional hero section subtitle
     actions:
       - label: Try Free
