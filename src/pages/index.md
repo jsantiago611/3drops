@@ -19,9 +19,6 @@ sections:
     background_color: none
     image: images/Elements for Personal Insurance Web Co (10).png
     content: >
-      # You run your agency.
-
-
       # We'll do your website.
 
 
