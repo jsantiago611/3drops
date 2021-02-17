@@ -24,6 +24,7 @@ sections:
 
       Get a professional website at a price you can afford, and powerful web
       editing with zero learning curve.
+    title: You run your agency.
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
