@@ -35,7 +35,8 @@
 .hero__title {
     margin-bottom: 0.25em;
     font-weight:600;
-    line-height:3rem;
+    letter-spacing: -.3rem;
+    line-height:2rem;
 }
 
 .hero__subtitle {
@@ -44,7 +45,7 @@
 
 .hero__copy {
 	&:not(:first-child) {
-        margin-top: 1.11111em;
+        margin-top: 11em;
     
     }
     line-height: 1.4rem;
