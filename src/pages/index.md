@@ -13,7 +13,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: large
-    background_color: none
+    background_color: primary
     image: images/Elements for Personal Insurance Web Co (27).png
     content: >
       # We'll run your website.
