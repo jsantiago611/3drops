@@ -22,7 +22,7 @@ sections:
       Get a professional website at a price you can afford, and powerful web
       editing with zero learning curve.
     title: You run your agency.
-    background_image: images/Elements for Personal Insurance Web Co (26).png
+    background_image: images/enthusiastic-aspen.png
     background_image_size: cover
     background_image_position: right top
     background_image_opacity: 95
