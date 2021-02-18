@@ -25,7 +25,7 @@ sections:
     background_image: images/Elements for Personal Insurance Web Co (26).png
     background_image_size: cover
     background_image_position: right top
-    background_image_opacity: 50
+    background_image_opacity: 95
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
