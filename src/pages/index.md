@@ -14,7 +14,7 @@ sections:
     padding_top: small
     padding_bottom: large
     background_color: secondary
-    image: images/Elements for Personal Insurance Web Co (27).png
+    image: images/mighty-oregano.png
     content: >
       # We'll run your website.
 
