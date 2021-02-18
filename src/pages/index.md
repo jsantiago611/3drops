@@ -13,7 +13,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     image: images/mighty-oregano.png
     content: >
       # We'll run your website.
