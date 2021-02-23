@@ -28,7 +28,7 @@ sections:
     background_image_opacity: 95
   - type: grid_section
     grid_items:
-      - title: Section Item 1
+      - title: More Leads
         title_align: left
         content_align: left
         actions: []
