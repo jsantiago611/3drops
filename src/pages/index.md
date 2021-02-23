@@ -46,7 +46,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: More hours in your day
         title_align: left
         content_align: left
         actions: []
