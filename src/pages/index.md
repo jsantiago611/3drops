@@ -62,7 +62,7 @@ sections:
     align: center
     background_color: primary
     padding_top: small
-    padding_bottom: small
+    padding_bottom: none
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
