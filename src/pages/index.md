@@ -61,6 +61,7 @@ sections:
     enable_cards: false
     align: center
     background_color: primary
+    padding_top: small
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
