@@ -48,7 +48,7 @@ sections:
         image_has_padding: true
       - title: More hours in your day
         title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image_alt: Section item 3 icon
