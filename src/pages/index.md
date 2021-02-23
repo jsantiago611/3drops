@@ -30,7 +30,7 @@ sections:
     grid_items:
       - title: More Leads
         title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image_alt: Section item 1 icon
