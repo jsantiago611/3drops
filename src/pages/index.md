@@ -47,7 +47,7 @@ sections:
         image_align: left
         image_has_padding: true
       - title: More hours in your day
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
