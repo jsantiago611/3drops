@@ -27,7 +27,6 @@ sections:
     background_image_position: right top
     background_image_opacity: 95
   - type: grid_section
-    subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
         title_align: left
