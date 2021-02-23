@@ -65,7 +65,7 @@ sections:
     padding_bottom: none
   - type: features_section
     features:
-      - title: The Big Title For the Feature
+      - title: You can't afford to have a site
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: |
           Meet demanding test objectives
