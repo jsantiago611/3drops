@@ -37,7 +37,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: More Support
         title_align: left
         content_align: left
         actions: []
