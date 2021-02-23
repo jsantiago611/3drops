@@ -60,7 +60,7 @@ sections:
     grid_gap_vert: small
     enable_cards: false
     align: center
-    background_color: primary
+    background_color: none
     padding_top: small
     padding_bottom: none
   - type: grid_section
