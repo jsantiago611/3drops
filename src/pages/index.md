@@ -63,23 +63,6 @@ sections:
     background_color: primary
     padding_top: small
     padding_bottom: none
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: Engineer Ambitiously
     subtitle: Features Section Example
@@ -135,6 +118,23 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: Image Grid
+    subtitle: Grid Section Example
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Contentful logo
+        image_align: center
+      - image: images/logo-2.svg
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/logo-3.svg
+        image_alt: Gatsby logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: features_section
     features:
       - title: >-
