@@ -64,7 +64,6 @@ sections:
     padding_top: small
     padding_bottom: none
   - type: features_section
-    title: Engineer Ambitiously
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
