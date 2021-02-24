@@ -66,20 +66,20 @@ sections:
   - type: cta_section
     title: 'But first, let''s ask some tough questions.'
     content: >
-      *   Are you sick of wasting money on a BLAH website that's just getting in
-      the way of building client relationships?
+      *   Are you sick of **wasting money** on a BLAH website that's just
+      getting in the way of building client relationships?
 
 
-      *   Are you losing sleep and stressing your family b/c you're losing TIME
-      and MONEY maintaining an unimpressive and slow agency site?
+      *   Are you **losing sleep** and stressing your family b/c you're **losing
+      TIME and MONEY** maintaining an unimpressive and slow agency site?
 
 
-      *   Did you try to tackle your website yourself (read:*
-      Wordpress…WIX…SquareSpace*) only to find the results were...lackluster?
+      *   Did you try to tackle your website yourself (read:\*
+      Wordpress…WIX…SquareSpace\*) only to find the results were...lackluster?
 
 
-      *   Are you starting an agency, but discouraged by the massive price tags
-      for custom websites?
+      *   Are you starting an agency, but discouraged by the **massive price
+      tags** for custom websites?
     actions:
       - label: Learn More
         url: /features
