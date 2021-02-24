@@ -71,7 +71,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Overwhelmed Agency Director
+      - title: Overwhelmed Agent Principle
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
