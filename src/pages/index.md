@@ -67,7 +67,6 @@ sections:
   - type: features_section
     features:
       - title: 'But first, let''s ask some tough questions:'
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: |
           Meet demanding test objectives
         actions:
