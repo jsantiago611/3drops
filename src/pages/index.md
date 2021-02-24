@@ -39,7 +39,8 @@ sections:
         image_has_padding: true
         content: >
           ![](<\<img
-          src="https://img.icons8.com/ios/50/000000/checked-2--v2.png"/\>>)
+          src="https://img.icons8.com/ios/50/000000/checked-2--v2.png"/\>>)![](<\<img
+          src="https://img.icons8.com/ios/100/000000/checked-2--v2.png"/\>>)
       - title: More Support
         title_align: center
         content_align: left
