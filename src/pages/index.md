@@ -67,8 +67,7 @@ sections:
   - type: features_section
     features:
       - title: 'But first, let''s ask some tough questions:'
-        content: |
-          Meet demanding test objectives
+        content: "Are you sick of\_**wasting money**\_on a BLAH website that's just getting in the way of building client relationships?  Are you\_**losing sleep**\_and stressing your family b/c you're\_**losing TIME and MONEY**\_maintaining an unimpressive and slow agency site?  Are you starting an agency, but discouraged by the\_**massive price tags**\_for custom websites?\n"
         actions:
           - label: Learn More
             url: /style-guide
