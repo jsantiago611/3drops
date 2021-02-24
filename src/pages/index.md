@@ -63,59 +63,6 @@ sections:
     background_color: primary
     padding_top: small
     padding_bottom: none
-  - type: cta_section
-    title: 'But first, let''s ask some tough questions.'
-    content: >
-      *   Are you sick of **wasting money** on a BLAH website that's just
-      getting in the way of building client relationships?
-
-
-      *   Are you **losing sleep** and stressing your family b/c you're **losing
-      TIME and MONEY** maintaining an unimpressive and slow agency site?
-
-
-      *   Did you try to tackle your website yourself (read:\*
-      Wordpress…WIX…SquareSpace\*) only to find the results were...lackluster?
-
-
-      *   Are you starting an agency, but discouraged by the **massive price
-      tags** for custom websites?
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-  - type: grid_section
-    title: Which Producer are you?
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Overwhelmed Agency Owner
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: BURNED
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: secondary
   - type: features_section
     features:
       - title: You can't afford to have a site
@@ -167,6 +114,59 @@ sections:
         media_position: right
         media_width: fifty
     feature_padding_vert: large
+    align: center
+    background_color: secondary
+  - type: cta_section
+    title: 'But first, let''s ask some tough questions.'
+    content: >
+      *   Are you sick of **wasting money** on a BLAH website that's just
+      getting in the way of building client relationships?
+
+
+      *   Are you **losing sleep** and stressing your family b/c you're **losing
+      TIME and MONEY** maintaining an unimpressive and slow agency site?
+
+
+      *   Did you try to tackle your website yourself (read:\*
+      Wordpress…WIX…SquareSpace\*) only to find the results were...lackluster?
+
+
+      *   Are you starting an agency, but discouraged by the **massive price
+      tags** for custom websites?
+    actions:
+      - label: Learn More
+        url: /features
+        style: secondary
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
+  - type: grid_section
+    title: Which Producer are you?
+    subtitle: Grid Section Example
+    actions:
+      - label: Join the team
+        url: /style-guide
+        style: primary
+    grid_items:
+      - title: Overwhelmed Agency Owner
+        subtitle: Co-Founder & CEO
+        title_align: center
+        image: images/gustav-purpleson.jpg
+        image_position: top
+      - title: BURNED
+        subtitle: Software Engineer
+        title_align: center
+        image: images/dianne-ameter.jpg
+        image_position: top
+      - title: Hugh Saturation
+        subtitle: Developer Advocate
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
+    grid_cols: three
     align: center
     background_color: secondary
   - type: grid_section
