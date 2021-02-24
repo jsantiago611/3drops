@@ -9,7 +9,7 @@ sections:
         has_icon: true
     image_alt: Hero section placeholder image
     media_position: right
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: small
     padding_bottom: large
@@ -37,7 +37,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        content:
+        content: null
       - title: More Support
         title_align: center
         content_align: left
