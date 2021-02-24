@@ -64,7 +64,7 @@ sections:
     padding_top: small
     padding_bottom: none
   - type: grid_section
-    title: Team Section
+    title: Which Producer are you?
     subtitle: Grid Section Example
     actions:
       - label: Join the team
