@@ -73,7 +73,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    actions_position: right
+    actions_position: bottom
     actions_width: fourty
     align: left
     padding_top: large
