@@ -85,7 +85,6 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: Get a Beautiful Design
-        subtitle: lorem-ipsum
         content: >
           Each of our templates are professionally designed with your agency’s
           growth in mind. Just choose the template that reflects your agency’s
