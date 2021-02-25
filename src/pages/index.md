@@ -37,7 +37,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        content: null
       - title: More Support
         title_align: center
         content_align: left
