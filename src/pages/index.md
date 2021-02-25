@@ -71,7 +71,7 @@ sections:
         actions:
           - label: "IT'S TIME FOR A NEW WEBSITE\_ ↓"
             url: /style-guide
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-right
             icon_position: right
