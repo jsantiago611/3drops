@@ -97,17 +97,10 @@ sections:
         align: left
         type: feature
       - title: Get easy access
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Forget about hours tinkering with web editing software and focus on
+          your agency’s growth. Enjoy the smoothest platform that makes it super
+          simple to update your website on the fly. 
         actions: []
         image_alt: lorem-ipsum
         media_position: top
