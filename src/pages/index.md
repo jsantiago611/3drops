@@ -84,7 +84,7 @@ sections:
   - title: What you get
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: Get a Beautiful Design
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
