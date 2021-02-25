@@ -91,7 +91,7 @@ sections:
           personality and goals, and we’ll customize fonts, colors, icons, and
           photos.
         actions:
-          - label: lorem-ipsum
+          - label: Choose your design
             url: lorem-ipsum
             style: link
             has_icon: false
