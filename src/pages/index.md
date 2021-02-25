@@ -81,33 +81,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    title: 'But first, let''s ask some tough questions.'
-    content: >
-      *   Are you sick of **wasting money** on a BLAH website that's just
-      getting in the way of building client relationships?
-
-
-      *   Are you **losing sleep** and stressing your family b/c you're **losing
-      TIME and MONEY** maintaining an unimpressive and slow agency site?
-
-
-      *   Did you try to tackle your website yourself (read:\*
-      Wordpress…WIX…SquareSpace\*) only to find the results were...lackluster?
-
-
-      *   Are you starting an agency, but discouraged by the **massive price
-      tags** for custom websites?
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
