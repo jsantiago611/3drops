@@ -83,23 +83,6 @@ sections:
     background_color: secondary
   - title: What you get / How we help
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
       - title: Get a Beautiful Design
         content: >
           Is your site essentially an online brochure? Is your site stuck in the
