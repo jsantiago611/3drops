@@ -96,6 +96,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/Elements for Personal Insurance Web Co (15).png
       - title: Get easy access to powerful web-editing software
         content: >
           Forget about hours tinkering with web editing software and focus on
