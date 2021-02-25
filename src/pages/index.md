@@ -108,17 +108,10 @@ sections:
         align: left
         type: feature
       - title: Get one-on-one support when you need it
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We provide an easy-to-use platform, but if you ever get stuck, we’ll
+          respond to messages in one business day or less. We’re here to take
+          the frustration of website maintenance off your plate - for good.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
