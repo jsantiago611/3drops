@@ -86,22 +86,13 @@ sections:
     features:
       - title: Get a Beautiful Design
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Each of our templates are professionally designed with your agency’s
+          growth in mind. Just choose the template that reflects your agency’s
+          personality and goals, and we’ll customize fonts, colors, icons, and
+          photos.
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left
