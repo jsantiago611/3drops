@@ -117,7 +117,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        video_embed_html: 'https://www.stackbit.com/images/video-marketers.mp4'
       - title: Get one-on-one support when you need it
         content: >
           We provide an easy-to-use platform, but if you ever get stuck, we’ll
@@ -169,7 +168,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Don't let your website hold your agency back
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
