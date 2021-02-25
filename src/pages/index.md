@@ -86,10 +86,25 @@ sections:
     features:
       - title: Get a Beautiful Design
         content: >
-          Each of our templates are professionally designed with your agency’s
-          growth in mind. Just choose the template that reflects your agency’s
-          personality and goals, and we’ll customize fonts, colors, icons, and
-          photos.
+          Is your site essentially an online brochure? Is your site stuck in the
+          90s? No site at all? No problem. Wherever you're at, we provide a
+          modern site that will futureproof your business: 
+
+
+          *   **Beautifully Designed.** Each of our templates are professionally
+          designed with your agency’s growth in mind. Just choose the template
+          that reflects your agency’s personality and goals, and we’ll customize
+          fonts, colors, icons, and photos.
+
+
+          *   **Blazing Fast. **Built with JAMStack technology, our sites
+          provide dramatically improve loading speeds and overall site
+          performance.  
+
+
+          *   **Improved Security**. Instead of building your site on a hackable
+          server, we build your code on a private repository. That means waaaay
+          less chance your site will get hacked. 
         actions:
           - label: Choose your design
             url: lorem-ipsum
