@@ -90,10 +90,13 @@ sections:
           modern site that will futureproof your business:
 
 
-          *   **Beautifully Designed.** Each of our templates are professionally
-          designed with your agency’s growth in mind. Just choose the template
-          that reflects your agency’s personality and goals, and we’ll customize
-          fonts, colors, icons, and photos.
+          ###### **Beautifully Designed.** 
+
+
+          Each of our templates are professionally designed with your agency’s
+          growth in mind. Just choose the template that reflects your agency’s
+          personality and goals, and we’ll customize fonts, colors, icons, and
+          photos.
 
 
           *   **Blazing Fast**. Built with JAMStack technology, our sites
