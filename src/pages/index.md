@@ -96,7 +96,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: Get easy access
+      - title: Get easy access to powerful web-editing software
         content: >
           Forget about hours tinkering with web editing software and focus on
           your agency’s growth. Enjoy the smoothest platform that makes it super
