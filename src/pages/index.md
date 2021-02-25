@@ -117,6 +117,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        video_embed_html: 'https://www.stackbit.com/images/video-marketers.mp4'
       - title: Get one-on-one support when you need it
         content: >
           We provide an easy-to-use platform, but if you ever get stuck, we’ll
