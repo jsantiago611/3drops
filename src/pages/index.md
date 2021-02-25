@@ -83,8 +83,7 @@ sections:
     background_color: secondary
   - title: What you get / How we help
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
