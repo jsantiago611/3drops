@@ -19,8 +19,8 @@ sections:
       # We'll run your website.
 
 
-      Get a pro insurance agency website at a price you can afford, and powerful
-      web editing with zero learning curve.
+      ###### Get a pro insurance agency website at a price you can afford, and
+      powerful web editing with zero learning curve.
     title: You run your agency.
     background_image: images/enthusiastic-aspen.png
     background_image_size: cover
