@@ -125,32 +125,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Which Producer are you?
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Overwhelmed Agency Owner
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: BURNED
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: secondary
-  - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
     align: center
