@@ -90,7 +90,7 @@ sections:
           modern site that will futureproof your business:
 
 
-          ###### **Beautifully Designed.** 
+          ###### **Beautifully Designed.**
 
 
           Each of our templates are professionally designed with your agency’s
@@ -99,14 +99,19 @@ sections:
           photos.
 
 
-          *   **Blazing Fast**. Built with JAMStack technology, our sites
-          provide dramatically improve loading speeds and overall site
-          performance.
+          ###### **Blazing Fast**. 
 
 
-          *   **Improved Security**. Instead of building your site on a hackable
-          server, we build your code on a private repository. That means waaaay
-          less chance your site will get hacked.
+          Built with JAMStack technology, our sites provide dramatically improve
+          loading speeds and overall site performance.
+
+
+          ###### **Improved Security**. 
+
+
+          Instead of building your site on a hackable server, we build your code
+          on a private repository. That means waaaay less chance your site will
+          get hacked.
         actions:
           - label: Choose your design
             url: lorem-ipsum
