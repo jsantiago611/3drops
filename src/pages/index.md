@@ -81,7 +81,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - title: What you get
+  - title: What you get / How we help
     subtitle: lorem-ipsum
     features:
       - title: Get a Beautiful Design
