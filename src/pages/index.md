@@ -96,7 +96,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Get easy access
         content: >-
           ## Lorem ipsum
 
