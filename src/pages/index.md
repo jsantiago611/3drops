@@ -108,7 +108,6 @@ sections:
         align: left
         type: feature
       - title: Get one-on-one support when you need it
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
