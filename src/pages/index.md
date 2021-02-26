@@ -19,7 +19,7 @@ sections:
       # We'll run your website.
 
 
-      ###### Get a pro insurance agency website at a price you can afford, and
+      ###### Get a professional agency website at a price you can afford, and
       powerful web editing with zero learning curve.
     title: You run your business.
     background_image: images/enthusiastic-aspen.png
