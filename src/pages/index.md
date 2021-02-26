@@ -25,7 +25,7 @@ sections:
     background_image: images/enthusiastic-aspen.png
     background_image_size: cover
     background_image_position: right top
-    background_image_opacity: 95
+    background_image_opacity: 80
   - type: grid_section
     grid_items:
       - title: More Leads
