@@ -160,23 +160,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: cta_section
     title: Don't let your website hold your agency back
     content: >-
