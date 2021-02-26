@@ -68,7 +68,21 @@ sections:
       - title: >-
           Having an Insurance Site should be three things: simple, effortless,
           and affordable.
-        content: "*   Are you sick of\_wasting money\_on a mediocre website that's just getting in the way of building client relationships?\n\n*   Are you\_losing sleep\_and stressing your family b/c you're\_losing time maintaining an unimpressive and slow agency site?\n\n*   Are you starting an agency, but discouraged by the\_massive price tags\_for custom websites?\n\n###### If you answered yes to any of these questions...\n"
+        content: >
+          But it's often not. Just like you, we're sick of web designs that
+          are...
+
+
+          *   Too Outdated
+
+
+          *   Too hard to maintain
+
+
+          *   Too Expensive
+
+
+          ###### If you feel the same way...
         actions:
           - label: "IT'S TIME FOR A NEW WEBSITE\_ ↓"
             url: /style-guide
