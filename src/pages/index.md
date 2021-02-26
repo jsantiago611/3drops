@@ -97,6 +97,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    padding_top: large
   - title: How we help
     features:
       - title: Get a Beautiful Design
