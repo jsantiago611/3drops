@@ -99,7 +99,7 @@ sections:
     background_color: secondary
     padding_top: medium
     padding_bottom: medium
-  - title: How we help
+  - title: How we help you
     features:
       - title: Get a Beautiful Design
         content: >
