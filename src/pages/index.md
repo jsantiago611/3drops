@@ -22,7 +22,6 @@ sections:
       ###### Get a professional agency website at a price you can afford, and
       powerful web editing with zero learning curve.
     title: You run your business.
-    background_image: images/enthusiastic-aspen.png
     background_image_size: cover
     background_image_position: right top
     background_image_opacity: 80
