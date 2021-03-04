@@ -59,7 +59,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     align: center
-    background_color: secondary
+    background_color: primary
     padding_top: small
     padding_bottom: none
   - type: features_section
