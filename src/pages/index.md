@@ -83,7 +83,7 @@ sections:
 
           ###### If you feel the same way...
         actions:
-          - label: "IT'S TIME FOR A NEW WEBSITE\_ ↓"
+          - label: Choose your new design
             url: /style-guide
             style: primary
             has_icon: false
