@@ -96,7 +96,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
   - title: How we help you
     features:
