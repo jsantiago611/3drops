@@ -46,7 +46,8 @@
 .hero__copy {
 	&:not(:first-child) {
         margin-top: -.2em;
-    
+        font-family: "CirLight";
+
     }
     line-height: 1.4rem;
     color:#082C5F;
