@@ -8,7 +8,7 @@ sections:
         style: primary
         has_icon: true
     image_alt: Hero section placeholder image
-    media_position: right
+    media_position: bottom
     media_width: fifty
     align: left
     padding_top: small
