@@ -98,7 +98,7 @@ sections:
     background_color: secondary
     padding_top: large
     padding_bottom: large
-  - title: How we help you
+  - title: We'll help you-
     features:
       - title: Get a Beautiful Design
         content: >
