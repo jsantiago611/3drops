@@ -9,7 +9,7 @@ sections:
         has_icon: true
     image_alt: Hero section placeholder image
     media_position: bottom
-    media_width: fifty
+    media_width: sixty
     align: center
     padding_top: small
     padding_bottom: large
