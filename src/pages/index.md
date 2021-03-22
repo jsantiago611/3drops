@@ -91,7 +91,7 @@ sections:
             icon_position: right
         image_alt: Feature 1 placeholder image
         media_position: left
-        media_width: fifty
+        media_width: fourty
         align: left
         image: images/vector-creator.png
     feature_padding_vert: large
