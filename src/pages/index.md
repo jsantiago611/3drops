@@ -90,7 +90,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         image: images/vector-creator.png
