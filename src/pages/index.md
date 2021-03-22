@@ -93,6 +93,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
+        image: images/vector-creator.png
     feature_padding_vert: large
     align: center
     background_color: secondary
