@@ -19,8 +19,8 @@ sections:
       # We'll run your website.
 
 
-      ###### Get a professional agency website at a price you can afford, and
-      powerful web editing with zero learning curve.
+      Get a professional agency website at a price you can afford, and powerful
+      web editing with zero learning curve.
     title: You run your business.
     background_image_size: cover
     background_image_position: right top
