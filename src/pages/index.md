@@ -12,7 +12,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: large
     background_color: primary
     image: images/mighty-oregano.png
     content: >
