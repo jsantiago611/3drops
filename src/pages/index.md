@@ -24,6 +24,7 @@ sections:
     background_image_size: cover
     background_image_position: right top
     background_image_opacity: 80
+    title: You run your business.
   - type: grid_section
     grid_items:
       - title: More Leads
